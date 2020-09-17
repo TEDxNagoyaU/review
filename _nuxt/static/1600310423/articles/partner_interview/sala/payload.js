@@ -1,1 +1,0 @@
-__NUXT_JSONP__("//articles/partner_interview/sala", {data:[],fetch:[],mutations:void 0});

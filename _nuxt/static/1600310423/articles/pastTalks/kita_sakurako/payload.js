@@ -1,1 +1,0 @@
-__NUXT_JSONP__("//articles/pastTalks/kita_sakurako", {data:[],fetch:[],mutations:void 0});

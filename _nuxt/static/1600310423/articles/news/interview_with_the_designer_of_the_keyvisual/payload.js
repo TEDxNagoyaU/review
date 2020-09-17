@@ -1,1 +1,0 @@
-__NUXT_JSONP__("//articles/news/interview_with_the_designer_of_the_keyvisual", {data:[],fetch:[],mutations:void 0});

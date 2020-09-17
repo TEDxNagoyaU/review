@@ -1,0 +1,1 @@
+__NUXT_JSONP__("//articles/news/2020-salon-vol2", {data:[],fetch:[],mutations:void 0});

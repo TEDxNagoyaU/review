@@ -1,0 +1,1 @@
+__NUXT_JSONP__("//articles/partner_interview/tabila_systems", {data:[],fetch:[],mutations:void 0});

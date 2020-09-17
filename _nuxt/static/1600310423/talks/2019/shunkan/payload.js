@@ -1,0 +1,1 @@
+__NUXT_JSONP__("//talks/2019/shunkan", {data:[],fetch:[],mutations:void 0});

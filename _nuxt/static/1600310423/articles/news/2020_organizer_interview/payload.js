@@ -1,0 +1,1 @@
+__NUXT_JSONP__("//articles/news/2020_organizer_interview", {data:[],fetch:[],mutations:void 0});

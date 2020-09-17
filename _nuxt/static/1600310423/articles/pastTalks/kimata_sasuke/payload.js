@@ -1,0 +1,1 @@
+__NUXT_JSONP__("//articles/pastTalks/kimata_sasuke", {data:[],fetch:[],mutations:void 0});

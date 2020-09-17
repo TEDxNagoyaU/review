@@ -1,0 +1,1 @@
+__NUXT_JSONP__("//partners/2017", {data:[],fetch:[],mutations:void 0});

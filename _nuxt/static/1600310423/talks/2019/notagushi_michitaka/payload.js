@@ -1,0 +1,1 @@
+__NUXT_JSONP__("//talks/2019/notagushi_michitaka", {data:[],fetch:[],mutations:void 0});
